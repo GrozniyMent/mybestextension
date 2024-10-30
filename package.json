@@ -13,8 +13,8 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "mybestextension.helloWorld",
-      "title": "Hello World"
+      "command": "mybestextension.whatTime",
+      "title": "Current Time"
     }]
   },
   "scripts": {
